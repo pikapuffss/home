@@ -45,7 +45,7 @@ h4 {
 .grid-column-layout {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 50px 50px 50px 50px 50px 50px;
+    grid-template-rows: 20vh 20vh 20vh 20vh 20vh;
 } 
 
 .title {
@@ -53,13 +53,13 @@ h4 {
   display: inline-block;
   padding: 1em 17em 1em 3em; 
 
-
 }
 
   /* basic styling for top-level menubar (ul element) */
   .menubar {
     background: white;
     padding: 1em;
+  
   }
   
   /* basic styling for the li items in the unordered list */
